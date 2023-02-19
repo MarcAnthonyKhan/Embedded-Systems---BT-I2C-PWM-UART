@@ -3,7 +3,11 @@ Final Project
 Jason Erickson, Joseph Flitz, Marc Khan, Tyler Luttmann
 
 
+
+
+
 Problem Description
+
 
 The objective of the Embedded Systems final project is to control the speed of a motor using a bluetooth module connected to the TI-MSP430FR2355 Launchpad and display the speed, in percent, on an i2c LCD display.
 
